@@ -9,8 +9,8 @@ const db = admin.firestore();
 const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-        user: "YOUR_SYSTEM_EMAIL@gmail.com",
-        pass: "YOUR_APP_PASSWORD" // ใช้ App Password ของ Google
+        user: "wpowpoi38@gmail.com",
+        pass: "kfcpfseenhujckvm" // ใช้ App Password ของ Google
     }
 });
 
